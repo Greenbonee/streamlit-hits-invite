@@ -1,0 +1,9 @@
+# Ignore Python virtual environment
+venv/
+__pycache__/
+*.pyc
+
+# Ignore large data files
+*.csv
+*.xlsx
+*.zip
