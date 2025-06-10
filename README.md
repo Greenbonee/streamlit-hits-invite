@@ -22,6 +22,7 @@ Make sure your CSV file includes the following columns:
 email,first_name,last_name
 student1@example.com,John,Doe
 student2@example.com,Jane,Smith
+csv'''
 
 🛠 Requirements
 
