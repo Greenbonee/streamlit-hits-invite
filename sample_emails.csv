@@ -1,3 +1,4 @@
-email
-student1@example.com
-student2@example.com
+email,first_name,last_name
+student1@example.com,John,Doe
+student2@example.com,Jane,Smith
+student3@example.com,Emily,Jones
