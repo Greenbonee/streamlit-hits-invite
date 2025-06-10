@@ -28,7 +28,7 @@ student2@example.com,Jane,Smith
 
 ---
 
-🛠 Requirements
+## 🛠 Requirements
 
 Python 3.7+
 Streamlit
@@ -39,7 +39,7 @@ A valid Bearer Token (provided by HITS)
 
 ---
 
-💻 How to Run Locally
+## 💻 How to Run Locally
 
 1. Clone this repository
 git clone https://github.com/Greenbonee/streamlit-hits-invite
@@ -64,14 +64,14 @@ streamlit run app.py
 
 ---
 
-🔐 Access Token
+## 🔐 Access Token
 This app requires a valid Bearer token to authorize with the HITS API. If you don’t have one, please contact your admin or refer to the documentation provided during the SIT Academic Retreat.
 
 ---
 
 ---
 
-🙌 Acknowledgements
+## 🙌 Acknowledgements
 • Built with Streamlit
 • Powered by the HITS API at UniMetaverse
 
