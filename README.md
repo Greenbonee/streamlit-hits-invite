@@ -28,28 +28,31 @@ Python 3.7+
 Streamlit
 pandas and requests libraries
 A valid Bearer Token (provided by HITS)
+
 💻 How to Run Locally
 
-Clone this repository
+1. Clone this repository
 git clone https://github.com/Greenbonee/streamlit-hits-invite
 cd hits-invite-app
-Install dependencies
+
+2. Install dependencies
 pip install -r requirements.txt
+
 If you don’t have a requirements.txt, use this:
-
 pip install streamlit pandas requests
-Run the app
-streamlit run app.py
-Use the App
-Enter your access token
-Upload the CSV file
-Click "Invite Students"
-View results directly on screen
-🔐 Access Token
 
+3. Run the app
+streamlit run app.py
+
+4. Use the App
+• Enter your access token
+• Upload the CSV file
+• Click "Invite Students"
+• View results directly on screen
+
+🔐 Access Token
 This app requires a valid Bearer token to authorize with the HITS API. If you don’t have one, please contact your admin or refer to the documentation provided during the SIT Academic Retreat.
 
 🙌 Acknowledgements
-
-Built with Streamlit
-Powered by the HITS API at UniMetaverse
+• Built with Streamlit
+• Powered by the HITS API at UniMetaverse
