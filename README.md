@@ -14,8 +14,6 @@ This is a simple Streamlit web application to invite students to the [HITS platf
 
 ---
 
----
-
 ## 📂 CSV Format
 
 Make sure your CSV file includes the following columns:
@@ -26,16 +24,12 @@ student2@example.com,Jane,Smith
 
 ---
 
----
-
 ## 🛠 Requirements
 
 Python 3.7+
 Streamlit
 pandas and requests libraries
 A valid Bearer Token (provided by HITS)
-
----
 
 ---
 
@@ -62,12 +56,8 @@ streamlit run app.py
 
 ---
 
----
-
 ## 🔐 Access Token
 This app requires a valid Bearer token to authorize with the HITS API. If you don’t have one, please contact your admin or refer to the documentation provided during the SIT Academic Retreat.
-
----
 
 ---
 
