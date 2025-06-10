@@ -18,11 +18,9 @@ This is a simple Streamlit web application to invite students to the [HITS platf
 
 Make sure your CSV file includes the following columns:
 
-```csv
 email,first_name,last_name
 student1@example.com,John,Doe
 student2@example.com,Jane,Smith
-csv'''
 
 🛠 Requirements
 
