@@ -32,7 +32,7 @@ A valid Bearer Token (provided by HITS)
 💻 How to Run Locally
 
 Clone this repository
-git clone https://github.com/yourusername/hits-invite-app.git
+git clone https://github.com/Greenbonee/streamlit-hits-invite
 cd hits-invite-app
 Install dependencies
 pip install -r requirements.txt
@@ -49,10 +49,6 @@ View results directly on screen
 🔐 Access Token
 
 This app requires a valid Bearer token to authorize with the HITS API. If you don’t have one, please contact your admin or refer to the documentation provided during the SIT Academic Retreat.
-
-📄 License
-
-MIT License (or specify another if applicable)
 
 🙌 Acknowledgements
 
